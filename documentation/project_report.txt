@@ -1,0 +1,36 @@
+PROJECT REPORT
+
+Project Name:
+SaaS Analytics Dashboard
+
+Developed By:
+Monalisa Patra
+
+Technologies Used:
+HTML, CSS, JavaScript
+
+Project Description:
+SaaS Analytics Dashboard is a responsive web dashboard application used for monitoring analytics, revenue, users, orders, and business performance.
+
+Project Features:
+1. Dashboard Navigation
+2. Analytics Cards
+3. Revenue Tracking
+4. Progress Bars
+5. Recent Activity Section
+6. Refresh Dashboard Button
+7. Responsive Design
+
+Files Used:
+1. index.html
+2. style.css
+3. script.js
+4. README.md
+
+Tools Used:
+VS Code
+GitHub
+Web Browser
+
+Conclusion:
+This project improved frontend development skills using HTML, CSS, and JavaScript for building interactive dashboards.
